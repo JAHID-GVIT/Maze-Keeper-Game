@@ -1,0 +1,5 @@
+>D:
+>cd D:\SOFTWARES\Unity\Unity Projects\Machine_Learning
+>MLvenv\Scripts\Activate
+>mlagents-learn --run-id =Name1
+Go to Results Folder for Trained Data
